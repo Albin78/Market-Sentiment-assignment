@@ -158,8 +158,8 @@ Add technical indicators (returns, volatility index) for multi-factor interactio
 ### **Clone the repository**
 
    ```bash
-   git clone https://github.com/<yourusername>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/Albin78/Market-Sentiment-assignment.git
+   cd Market-Sentiment-assignment
    ```
 
 ### Install dependencies
