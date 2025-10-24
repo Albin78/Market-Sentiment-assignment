@@ -149,3 +149,29 @@ Test nonlinear models (Random Forest, XGBoost) to predict PnL from lagged sentim
 Segment by account type or leverage to identify sensitive traders.
 
 Add technical indicators (returns, volatility index) for multi-factor interaction.
+
+
+
+
+## ⚙️ Setup & Usage
+
+### **Clone the repository**
+
+   ```bash
+   git clone https://github.com/<yourusername>/<repo-name>.git
+   cd <repo-name>
+   ```
+
+### Install dependencies
+
+`pip install -r requirements.txt`
+
+
+### Run the notebook
+
+`jupyter notebook notebooks/market_sentiment_analysis.ipynb`
+
+
+### View results
+
+Generated plots and outputs are saved in the plots/ folder 
